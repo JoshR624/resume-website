@@ -1,10 +1,23 @@
-.button {
-    background-color: #04AA6D; /* Green */
-    border: none;
-    color: white;
-    padding: 15px 32px;
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
+    border-radius: 50%;
+}
+
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-github {
+    background: #2b3137;
+    color: white;
 }
